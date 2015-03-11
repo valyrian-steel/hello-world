@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+=============
+
+Hi humans!
+
+Get busy living or get busy dying
